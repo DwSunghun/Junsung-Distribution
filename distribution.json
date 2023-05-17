@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "https://raw.githubusercontent.com/DwSunghun/junsung-distribution/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "blob:https://github.com/e8ff2227-3d69-4289-bccc-057ecde9083e"
               },
               "subModules": []
             },
