@@ -377,6 +377,16 @@
           }
         },
         {
+          "id": "dareharu.haru:haru:0.45.0@jar",
+          "name": "Haru Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2538877,
+            "url": "https://github.com/DwSunghun/Junsung-Distribution/raw/main/servers/Dubious-1.16.5/forgemods/required/DareHaruDareHaru-0.45.0-final_1.jar",
+            "MD5": "26c2de4a80165914e894248589b0bbdf"
+          }
+        },
+        {
           "id": "kr.neko.sokcuri:naraechat:1.16.3-0.7.1@jar",
           "name": "Narae Chat",
           "type": "ForgeMod",
